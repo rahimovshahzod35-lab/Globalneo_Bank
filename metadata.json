@@ -1,0 +1,6 @@
+{
+  "name": "Global Bank Autonomous Multi-Agent Engine",
+  "description": "Autonomous multi-agent banking system orchestrator with real-time inter-agent collaborative command chat, executive reporting, HMAC-SHA256 security core, AML risk evaluation, and Autonomous Card Issuing Core v2.0.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
